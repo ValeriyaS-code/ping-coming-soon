@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 4rem auto;
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.main h1 {
+    color:hsl(0, 0%, 59%);
+    font-weight: 100;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+span {
+    color: hsl(209, 33%, 12%);
+    font-weight: 600;
+}
+
+.main h3 {
+    color: hsl(209, 33%, 12%);
+    font-weight: 300;
+    margin-bottom: 1rem;
+}
