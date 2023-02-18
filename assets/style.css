@@ -101,3 +101,21 @@ footer h5 {
     font-size: 0.7rem;
     margin: 1rem 0;
 }
+
+@media only screen and (max-width: 600px) {
+    div.main-img {
+        width: 50rem;
+        text-align: left;
+        margin-left: 3rem;
+    }
+    .main button {
+        width: 23rem;
+    }
+    .main h1 {
+        font-size: 1.7rem;
+    }
+    .main h3 {
+        font-size: 0.7rem;
+    }
+
+  }
