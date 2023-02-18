@@ -56,3 +56,20 @@ span {
 .main-img img {
     width: 50%;
 }
+
+footer {
+    margin: 3rem;
+    text-align: center;
+    color: hsl(223, 87%, 63%);
+}
+
+i {
+    margin: 0 0.5rem;
+}
+
+footer h5 {
+    color: hsl(0, 0%, 59%);
+    font-weight: 100;
+    font-size: 0.7rem;
+    margin: 1rem 0;
+}
