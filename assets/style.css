@@ -31,3 +31,28 @@ span {
     font-weight: 300;
     margin-bottom: 1rem;
 }
+
+.guest-email {
+    width: 17rem;
+    height: 2.5rem;
+    padding: 0.2rem;
+    border-radius: 4rem;
+    border: 1px solid hsl(0, 0%, 59%);
+    margin: 1rem 0 2rem 0;
+}
+
+.main button {
+    color: white;
+    background-color: hsl(223, 87%, 63%);
+    width: 9rem;
+    height: 2.5rem;
+    border: 1px solid hsl(223, 87%, 63%);
+    border-radius: 4rem;
+    margin: 1rem 0 2rem 0;
+    font-weight: 300;
+    box-shadow: 2px 2px 8px 2px hsl(223, 100%, 88%);
+}
+
+.main-img img {
+    width: 50%;
+}
